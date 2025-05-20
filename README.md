@@ -9,7 +9,7 @@ This document highlights our contribution and the team members involved in prepa
 
 | No. | Name                | Student ID |
 |-----|---------------------|------------|
-| 1   | Amanuel Gedyihun    | 0068       |
+| 1   | Amanuel Gedyihun    | 0062       |
 | 2   | Daniel Temesgen     | 0074       |
 | 3   | Hana Belay          | 0083       |
 | 4   | Libeamlak Dawit     | 0090      |
